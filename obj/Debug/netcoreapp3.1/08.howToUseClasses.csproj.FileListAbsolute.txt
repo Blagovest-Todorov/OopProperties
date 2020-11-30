@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.exe
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.deps.json
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.dll
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\bin\Debug\netcoreapp3.1\08.howToUseClasses.pdb
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.dll
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.pdb
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.genruntimeconfig.cache
+C:\Users\Bla\source\repos\OOP\08.howToUseClasses\obj\Debug\netcoreapp3.1\08.howToUseClasses.csprojAssemblyReference.cache
